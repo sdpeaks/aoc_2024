@@ -3,6 +3,6 @@
 ### Languages to use:
 
 - Go
+- JavaScript
 - Odin
 - Python
-
