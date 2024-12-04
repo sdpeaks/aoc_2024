@@ -9,7 +9,9 @@
 *.dylib
 
 # ignore exec binaries
+*
 !*.*
+!*/
 
 # don't ignore input data
 !*/input
